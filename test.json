@@ -1,2 +1,25 @@
-{"Version":"1.2", "Url":"https://github.com/ChariPidchid/S/raw/main/chari.zip"
+{
+//เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
+"Version":"1.3",
+//ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
+"Url":"https://github.com/ChariPidchid/S/raw/main/chari.zip" ,
+"Changelog":"
+มีการอัพเดทใหม่ 28/07/2023
+
+แตะที่ปุ่ม ตกลง เพื่อรับการอัพเดท
+ 
+",
+ 
+ 
+ 
+ 
+ 
+ 
+//ไม่ต้องยุ่งด้านล่าง
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
 }
